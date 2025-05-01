@@ -1,0 +1,10 @@
+function:
+  name: embed
+  type: executable_pool
+  format: TabSeparated
+  pool_size: 2
+  send_chunk_header: true
+  command: 'text_embedder.py'
+  argument:
+    type: String
+  return_type: Array(Float32)
