@@ -76,6 +76,7 @@ This project demonstrates a novel approach to building semantic search capabilit
     FROM list_items AS li
     ORDER BY similarity_score;
     ```
-  ![image](https://github.com/user-attachments/assets/094f6ddc-b64f-4044-a71d-37d53f87982e)
+  ![Screenshot 2025-05-01 185636](https://github.com/user-attachments/assets/5162db41-7ae7-41cd-95f8-d781751c9509)
+
 
 
